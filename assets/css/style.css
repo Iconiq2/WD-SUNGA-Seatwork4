@@ -128,7 +128,7 @@ header {
     font-size: 3rem;
   }
 
-  & .cards-container {
+  & .cards-containerx {
     display: flex;
     gap: 2.5rem;
     flex-wrap: wrap;
