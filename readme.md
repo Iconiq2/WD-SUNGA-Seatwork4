@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Iconiq2">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="https://media.wired.com/photos/5955ceabcbd9b77a41915cf6/191:100/w_1280,c_limit/marvel-characters.jpg" width="130" height="100">
   </a>
@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  iron many
+  Iron Man
 </div>
 
 <br />
@@ -60,10 +60,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project- show features about my project
-- Whats the purpose- showcase my skills in animation 
+- What is the project- To show the features like header and footer
+- Whats the purpose- Showcase the skill
 - What are key components- 4 features and a landing page
-- What technology used and how it is used- it would be index.html and css
+- What technology used and how it is used- HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -117,4 +117,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| codepen | help me build my website. | https://codepen.io/ |
+| freecodecamp | help me build my website. | https://www.freecodecamp.org/ |
