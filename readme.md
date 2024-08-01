@@ -6,10 +6,10 @@
 <div align="center">
   <a href="https://github.com/Iconiq2">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://media.wired.com/photos/5955ceabcbd9b77a41915cf6/191:100/w_1280,c_limit/marvel-characters.jpg" width="130" height="100">
+    <img src="./assets/img/CharlesLogo2.jpg" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">MARVEL</h3>
+  <h3 align="center">SW4</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=randogs/WD-SW4)
+![](https://github.com/Iconiq2)
 
 ---
 
@@ -60,16 +60,16 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project- To show the features like header and footer
-- Whats the purpose- Showcase the skill
-- What are key components- 4 features and a landing page
-- What technology used and how it is used- HTML and CSS
+- What is the project- The project involves creating a multi-page website with a unique and engaging design theme
+- Whats the purpose- The purpose of the project is to demonstrate the ability to design and develop a visually appealing and functional website using fundamental web technologies and to showcase unique feature layouts.
+- What are key components- Design, Deployment, Content
+- What technology used and how it is used - The project uses Pure HTML, CSS, and JavaScript for the structure, styling, and interactivity of the web pages Additionally, libraries such as Font Awesome, Google Fonts.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- features
-- Parallax transition
+- Page Design
+- Feature Page Layouts
 
 
 ### Technology
