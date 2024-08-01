@@ -68,7 +68,7 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- Page Design
+- Page Designs
 - Feature Page Layouts
 
 
